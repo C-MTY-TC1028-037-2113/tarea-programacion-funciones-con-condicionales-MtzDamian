@@ -1,3 +1,4 @@
+#Omar Damián Mtz
 def tarjetas(pliegos,plumones):
     
     tarjetasPliegos = pliegos*12
